@@ -19,7 +19,8 @@ I believe that the benefits of higher financial inclusion from successful implem
 1. Financial Technology
 2. Value Investing
 3. Data Privacy 
-4. Finacial Inclusion 
+4. Financial Inclusion 
+5. Landscape Photography
 
 
 ## Link up with me social media
