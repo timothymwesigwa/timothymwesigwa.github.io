@@ -24,7 +24,7 @@ I believe that the benefits of higher financial inclusion from successful implem
 
 ## Link up with me social media
 
-[Link](https://twitter.com/mvesigwa) 
+[Twitter](https://twitter.com/mvesigwa) 
 
-[Link](https://twitter.com/mvesigwa) 
+[LinkedIn](https://twitter.com/mvesigwa) 
 
