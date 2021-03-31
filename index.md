@@ -1,7 +1,5 @@
 ### Welcome to my personal Website  
-<p align="center" >
-    <img width="33%" src="https://github.com/timothymwesigwa/timothymwesigwa.github.io/blob/main/IMG_7019.jpeg.jpeg">  
-</p> 
+
 ![Alt text](https://github.com/timothymwesigwa/timothymwesigwa.github.io/blob/main/IMG_7019.jpeg.jpeg raw=true "Title")
 
 ### Brief Bio
