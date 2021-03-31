@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
-![Alt text](https://github.com/timothymwesigwa/timothymwesigwa.github.io/blob/main/IMG_7019.jpeg.jpeg?raw=true "Optional Title")(./pic/pic1s.png =250x100)
+
+<img src=https://github.com/timothymwesigwa/timothymwesigwa.github.io/blob/main/IMG_7019.jpeg.jpeg" width="270" height="380"/>
+                                                                                                                            
 You can use the [editor on GitHub](https://github.com/timothymwesigwa/timothymwesigwa.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
