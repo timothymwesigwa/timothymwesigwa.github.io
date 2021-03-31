@@ -29,3 +29,8 @@ I believe that the benefits of higher financial inclusion from successful implem
 
 [LinkedIn](https://www.linkedin.com/in/timothy-tusuubira-mwesigwa-76ba4111a/) 
 
+[Instagram](https://www.instagram.com/smileproject256/) 
+
+
+
+
