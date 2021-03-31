@@ -1,3 +1,6 @@
+<p align="centre">
+<img src=https://github.com/timothymwesigwa/timothymwesigwa.github.io/blob/main/IMG_7019.jpeg.jpeg width="270" height="380"/>
+</p>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/timothymwesigwa/timothymwesigwa.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
