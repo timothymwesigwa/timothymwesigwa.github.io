@@ -1,4 +1,4 @@
-### Welcome to my personal Website   
+## Welcome to my personal Website   
 
 <p align="center" width="100%">
     <img width="33%" src="https://github.com/timothymwesigwa/timothymwesigwa.github.io/blob/main/IMG_7019.jpeg.jpeg "> 
