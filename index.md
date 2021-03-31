@@ -1,5 +1,3 @@
-## Welcome to my personal Website   
-
 <p align="center" width="100%">
     <img width="33%" src="https://raw.githubusercontent.com/timothymwesigwa/timothymwesigwa.github.io/main/AE089217-F8E8-4DC2-828B-A0D9B028E0BF.jpeg"> 
 </p>
