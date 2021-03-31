@@ -1,6 +1,5 @@
-### Welcome to my personal Website  
-
-![Alt text](https://github.com/timothymwesigwa/timothymwesigwa.github.io/blob/main/IMG_7019.jpeg.jpeg raw=true "Title")
+### Welcome to my personal Website   
+![alt text](https://github.com/timothymwesigwa/timothymwesigwa.github.io/blob/main/IMG_7019.jpeg.jpeg)
 
 ### Brief Bio
 I am currently pursuing my Masters degree in Financial Technology at the University of Cape Town. I chose this field of study because I am genuinely curious about leveraging the applications of data science and blockchain technology to create innovative financial products.
